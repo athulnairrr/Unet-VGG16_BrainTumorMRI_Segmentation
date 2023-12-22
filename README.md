@@ -22,6 +22,7 @@ This repository contains code for a brain tumor segmentation project using MRI i
 
 - Organized brain MRI images and corresponding masks.
 - Split the dataset into training and validation sets.
+- kaggle Dataset: https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation/data
 
 ## Data Loading
 
