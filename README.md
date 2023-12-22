@@ -1,4 +1,5 @@
 # Unet-VGG16_BrainTumorMRI_Segmentation
+kaggle Notebook: https://www.kaggle.com/athulnair8101/unet-vgg16-braintumormri-segmentation
 
 ![image](https://github.com/athulnairrr/Unet-VGG16_BrainTumorMRI_Segmentation/assets/132225542/219dd182-cd03-4620-b69f-43bf94d9cebc)
 
